@@ -31,8 +31,9 @@ En este repositorio se describe los contenidos y objetivos de los distintos curs
   - Vas Aprender:
   - Duracion:
   
- [Enlace al cursor de Desarrollador NodeJs](https://github.com/BrainAcademyAr/desarrollador-NodeJs)
+  [Enlace al cursor de Desarrollador NodeJs](https://github.com/BrainAcademyAr/desarrollador-NodeJs)
   
-  **Cursos de extensión**:
-    - SQL y Sequelize
+
+**Cursos de extensión**:
+  - SQL y Sequelize
   
