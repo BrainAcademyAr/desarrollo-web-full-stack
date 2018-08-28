@@ -18,7 +18,7 @@ En este repositorio se describe los contenidos y objetivos de los distintos curs
   Enlace
   
 - Desarrollador ReactJs
-  - Requisitos:
+  - requisitos:
   - Vas aprender:
   
   Enlace
@@ -28,4 +28,7 @@ En este repositorio se describe los contenidos y objetivos de los distintos curs
   - Vas Aprender:
   
   Enlace
+  
+  **Cursos de extensión**:
+    - SQL y Sequelize
   
