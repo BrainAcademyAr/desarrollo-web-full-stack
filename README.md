@@ -8,26 +8,30 @@ En este repositorio se describe los contenidos y objetivos de los distintos curs
   - Requisitos:
     No tiene requisitos previos.
   - Vas aprendera:
+  - Duracion:
   
-  Enlace
+  [Enlace al curso de Diseñador Web](https://github.com/BrainAcademyAr/disenador-web)
   
 - Programador Web
   - Requisitos:
   - Vas aprender:
+  - Duracion:
   
-  Enlace
+  [Enlace al curso de Programador Web](https://github.com/BrainAcademyAr/programador-web)
   
 - Desarrollador ReactJs
   - requisitos:
   - Vas aprender:
+  - Duracion:
   
-  Enlace
+  [Enlace al curso de Desarrollador ReactJS](https://github.com/BrainAcademyAr/desarrollador-ReactJs)
   
 - Desarrollador NodeJs
   - Requisitos:
   - Vas Aprender:
+  - Duracion:
   
-  Enlace
+ [Enlace al cursor de Desarrollador NodeJs](https://github.com/BrainAcademyAr/desarrollador-NodeJs)
   
   **Cursos de extensión**:
     - SQL y Sequelize
